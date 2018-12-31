@@ -1,8 +1,8 @@
 title: Vornamen
 greeting: Alles über Vornamen
 description: Dieses Data-Portal ist noch im Aufbau...
-# baseurl: /jkan-vornamen
-baseurl: ""
+baseurl: /jkan-vornamen
+# baseurl: ""
 logo: /img/jkan.png
 
 # Site theme
