@@ -19,7 +19,7 @@ resources:
   - name: 2014 - 3.023 Kinder haben 2014 in Chemnitz das Licht der Welt erblickt – Vornamen-Hitliste führen Sophie und Paul an
     url: 'https://www.chemnitz.de/chemnitz/de/aktuell/presse/pressemitteilungen/2015/016.html'
     format: Quelle - Pressestelle
-  - name: 2013 - Jahresrückblick aus dem Chemnitzer Standesamt: 3.014 Kinder haben 2013 in Chemnitz das Licht der Welt erblickt und die Vornamen-Hitliste führen Sophie und Ben an
+  - name: 2013 - Jahresrückblick aus dem Chemnitzer Standesamt, 3.014 Kinder haben 2013 in Chemnitz das Licht der Welt erblickt und die Vornamen-Hitliste führen Sophie und Ben an
     url: 'https://www.chemnitz.de/chemnitz/de/aktuell/presse/pressemitteilungen/2014/9.html'
     format: Quelle - Pressestelle
   - name: 2012 - Bilanz der Einwohnerstatistik 2012 - 861 Hochzeiten - 2900 Kinder geboren

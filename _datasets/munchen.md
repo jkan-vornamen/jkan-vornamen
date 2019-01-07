@@ -4,7 +4,7 @@ title: München
 organization: 
 notes: 
 resources:
-  - name: 2009 bis 2018 -  Die beliebtesten Vornamen - Statistiken des Standesamts München: 
+  - name: 2009 bis 2018 -  Die beliebtesten Vornamen - Statistiken des Standesamts München
     url: 'https://www.muenchen.de/rathaus/Stadtverwaltung/Kreisverwaltungsreferat/Standesamt-und-Urkunden/Geburt/Namensgebung.html'
     format: Quelle - Stadt
 license: ''
