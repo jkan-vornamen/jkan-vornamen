@@ -45,6 +45,8 @@ export default class {
       }
 
       const yaml = this._formatData(formData)
+	  console.log(file.fileName);
+	  console.log(commitMsg);
       file.save(yaml, commitMsg)
       .then((response) => {
         const commitUrl = response.commit.html_url
